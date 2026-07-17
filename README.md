@@ -1,5 +1,5 @@
 <!--
-**jiangxiewei/jiangxiewei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RichardLexJiang/RichardLexJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### I can speak Mandarin,Japanese and a little bit of English
 
 #### Statistical Data
-![](https://github-readme-stats.vercel.app/api?username=jiangxiewei&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
+![](https://github-readme-stats.vercel.app/api?username=RichardLexJiang&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
 
 #### Spoken Language
 
@@ -66,12 +66,12 @@ Here are some ideas to get you started:
 ![Harmony OS](https://img.shields.io/badge/Harmony-0f0f0f?style=for-the-badge&logo=HarmonyOS&color=red)
 
 #### Visitors (Since 2021/11/1)
-![](https://count.getloli.com/get/@jiangxiewei?theme=rule34)
+![](https://count.getloli.com/get/@RichardLexJiang?theme=rule34)
 
 #### Github Stats
-<!--  dead [![Jiang's github stats](https://bad-apple-github-readme.vercel.app/api?username=jiangxiewei&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
+<!--  dead [![Jiang's github stats](https://bad-apple-github-readme.vercel.app/api?username=RichardLexJiang&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=jiangxiewei&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
-[![jiang's current streak](https://streak-stats.demolab.com/?user=jiangxiewei&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
-[![commit stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiangxiewei&theme=blueberry)](#)  
-<!-- [![achivement](https://github-profile-trophy.vercel.app/?username=jiangxiewei&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true)](#) -->
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RichardLexJiang&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
+[![jiang's current streak](https://streak-stats.demolab.com/?user=RichardLexJiang&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
+[![commit stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardLexJiang&theme=blueberry)](#)  
+<!-- [![achivement](https://github-profile-trophy.vercel.app/?username=RichardLexJiang&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true)](#) -->
