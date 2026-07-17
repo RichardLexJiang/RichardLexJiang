@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### Statistical Data
 ![](https://github-readme-stats.vercel.app/api?username=RichardLexJiang&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
 
-#### Spoken Language
+#### Language
 
 ![Chinese](https://img.shields.io/badge/Chinese-%23ff0d00?style=for-the-badge&label=native&labelColor=red&color=e6ebed)  
 ![Japanese](https://img.shields.io/badge/Japanese-red?style=for-the-badge&label=JLPT-N1&labelColor=ddb13f&color=e6ebed)  
