@@ -72,6 +72,6 @@ Here are some ideas to get you started:
 <!--  dead [![Jiang's github stats](https://bad-apple-github-readme.vercel.app/api?username=RichardLexJiang&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RichardLexJiang&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=RichardLexJiang&theme=dark&border_radius=5.5&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=RichardLexJiang&theme=dark&border_radius=5.5&mode=weekly)
 [![commit stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardLexJiang&theme=blueberry)](#)  
 <!-- [![achivement](https://github-profile-trophy.vercel.app/?username=RichardLexJiang&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true)](#) -->
