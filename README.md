@@ -40,18 +40,17 @@ Here are some ideas to get you started:
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust)
-![javascript](https://img.shields.io/badge/javascript-0f0f0f?style=for-the-badge&logo=javascript&color=brown)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- ![javascript](https://img.shields.io/badge/javascript-0f0f0f?style=for-the-badge&logo=javascript&color=brown) -->
 
 #### IDEs / Editors
 <!--
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white) 
 -->
-
-![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge)
@@ -72,6 +71,6 @@ Here are some ideas to get you started:
 <!--  dead [![Jiang's github stats](https://bad-apple-github-readme.vercel.app/api?username=RichardLexJiang&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RichardLexJiang&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
-![GitHub Streak](https://streak-stats.demolab.com?user=RichardLexJiang&theme=dark&border_radius=5.5&mode=weekly)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RichardLexJiang&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 [![commit stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardLexJiang&theme=blueberry)](#)  
 <!-- [![achivement](https://github-profile-trophy.vercel.app/?username=RichardLexJiang&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true)](#) -->
