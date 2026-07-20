@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 ### I can speak Mandarin,Japanese and a little bit of English
 
 #### Statistical Data
-![](https://github-readme-stats.vercel.app/api?username=RichardLexJiang&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=RichardLexJiang&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8) -->
+<a href="https://github.com/RichardLexJiang">
+  <img align="center" src="https://github-stats-alpha.vercel.app/api?username=RichardLexJiang&cc=1d1f21&tc=c9cacc&ic=fff&bc=0000" />
+</a>
 
 #### Language
 
