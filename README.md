@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Richard%20Lex%20Jiang%28%E6%B1%9F%29%28%E3%81%93%E3%81%86%29&fontSize=60)
+[![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Richard%20Lex%20Jiang%28%E6%B1%9F%29%28%E3%81%93%E3%81%86%29&fontSize=60)](#)
 
 ### Hi there 👋   
 ### I'm a programer who lives in China . 
