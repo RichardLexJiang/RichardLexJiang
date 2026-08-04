@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### I'm a programer who lives in China . 
 ### I can speak Mandarin,Japanese and a little bit of English
 
-#### Statistical Data
+#### Github Summary Data
 <!-- ![](https://github-readme-stats.vercel.app/api?username=RichardLexJiang&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8) -->
 <a href="https://github.com/RichardLexJiang">
   <img align="center" src="https://github-stats-alpha.vercel.app/api?username=RichardLexJiang&cc=1d1f21&tc=c9cacc&ic=fff&bc=0000" />
@@ -73,6 +73,11 @@ Here are some ideas to get you started:
 #### Github Stats
 <!--  dead [![Jiang's github stats](https://bad-apple-github-readme.vercel.app/api?username=RichardLexJiang&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RichardLexJiang&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
-[![commit stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardLexJiang&theme=blueberry)](#)  
+
+[![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/2077/0-profile-details.svg)](#)
+[![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/2077/1-repos-per-language.svg)](#) [![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/2077/2-most-commit-language.svg)](#)
+[![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/2077/3-stats.svg)](#) [![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/2077/4-productive-time.svg)](#)
+
+<!-- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RichardLexJiang&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  -->
+<!-- [![commit stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardLexJiang&theme=blueberry)](#) --> 
 <!-- [![achivement](https://github-profile-trophy.vercel.app/?username=RichardLexJiang&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true)](#) -->
