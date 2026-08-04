@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Harmony OS](https://img.shields.io/badge/Harmony-0f0f0f?style=for-the-badge&logo=HarmonyOS&color=red)
 
-#### Visitors (Since 2021/11/1)
+#### Visitors (Since 2026/07)
 ![](https://count.getloli.com/get/@RichardLexJiang?theme=rule34)
 
 #### Github Stats
