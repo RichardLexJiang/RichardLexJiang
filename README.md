@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 #### Github Stats
 <!--  dead [![Jiang's github stats](https://bad-apple-github-readme.vercel.app/api?username=RichardLexJiang&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) -->
 
-![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/3-stats.svg) ![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
+[![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](#)
+[![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](#) [![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](#)
+[![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](#) [![](https://raw.githubusercontent.com/RichardLexJiang/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](#)
 
 
 <!-- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=RichardLexJiang&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  -->
